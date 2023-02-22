@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #18191A;
+    color: #fff;
+}
+.nav-b{
+    font-size:30px;
+    color: #fff;
+
+}
+.navbar{
+    border-bottom: 1px solid;
+    position: relative;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.wrapper {
+    border-bottom:1px solid #636161;
+    display:inline-block;
+    margin-left: 50px;
+}
+
+input{
+    border:0;
+    width: 450px;
+}
+
+.search-icon{
+    color:#F89C1D;
+    cursor: pointer;
+}
+.contact-icon{
+    margin-left: 20px; color: #fff; font-weight: 600;
+}
+.card{
+    border: 0 !important;
+    border-bottom: 1px solid #636161 !important;
+}
+.news-head{
+font-size: 25px;
+}
+.profile{
+    margin-left: 50px;
+   
+}
+.profile-btn{
+    border: none;
+    font-size: 50px;
+   
+}
+li{
+    list-style: none;
+    padding: 5px;
+}
